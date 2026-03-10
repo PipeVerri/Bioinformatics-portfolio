@@ -1,0 +1,1 @@
+The solutions for [rosalind](https://rosalind.info/problems/ini/) practice problems
