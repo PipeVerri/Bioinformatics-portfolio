@@ -1,0 +1,104 @@
+LOCUS       JX469991                2070 bp    mRNA    linear   PLN 16-OCT-2012
+DEFINITION  Zea mays subsp. mays clone UT3351 ABI3VP1-type transcription factor
+            mRNA, partial cds.
+ACCESSION   JX469991
+VERSION     JX469991.1
+KEYWORDS    .
+SOURCE      Zea mays subsp. mays (maize)
+  ORGANISM  Zea mays subsp. mays
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; Liliopsida; Poales; Poaceae; PACMAD
+            clade; Panicoideae; Andropogonodae; Andropogoneae; Tripsacinae;
+            Zea.
+REFERENCE   1  (bases 1 to 2070)
+  AUTHORS   Yilmaz,A., Nishiyama,M.Y. Jr., Fuentes,B.G., Souza,G.M., Janies,D.,
+            Gray,J. and Grotewold,E.
+  TITLE     GRASSIUS: a platform for comparative regulatory genomics across the
+            grasses
+  JOURNAL   Plant Physiol. 149 (1), 171-180 (2009)
+   PUBMED   18987217
+REFERENCE   2  (bases 1 to 2070)
+  AUTHORS   Gray,J., Doseff,A. and Grotewold,E.
+  TITLE     Maize Transcription Factor ORFeome (TFome) Collection
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 2070)
+  AUTHORS   Gray,J., Doseff,A. and Grotewold,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2012) Biological Sciences Dept, University of
+            Toledo, MS 601 2801 West Bancroft Street, Toledo, OH 43606, USA
+COMMENT     Amplified using PCR from a full length cDNA template originally
+            obtained from the Maize Full-length cDNA Project
+            (www.maizecdna.org). The PCR product was cloned into either a
+            Gateway pENTR/D or pENTR/SD vector and will be made available to
+            researchers via the Addgene plasmid repository (www.addgene.org).
+            Further gene information may be found at the GRASSIUS database
+            (www.grassius.org).
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: Seqman Pro v. v. 9.1.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2070
+                     /organism="Zea mays subsp. mays"
+                     /mol_type="mRNA"
+                     /sub_species="mays"
+                     /db_xref="taxon:381124"
+                     /clone="UT3351"
+     CDS             1..>2070
+                     /note="ZmABI1; amplified from BT060994; gene model
+                     GRMZM2G133398"
+                     /codon_start=1
+                     /product="ABI3VP1-type transcription factor"
+                     /protein_id="AFU81654.1"
+                     /translation="MEASAGSSPPHSQENPPEHGGDMGGAPAEEIGGEAADDFMFAED
+                     TFPSLPDFPCLSSPSSSTFSSNSSSNSSSAYTNTAGRAGGEPSEPASAGEGFDALDDI
+                     DQLLDFASLSMPWDSEPFPGVSMMLENAMSAPPQPVGDGMSEEKAVPEGTTGGEEACM
+                     DASEGEELPRFFMEWLTSNRENISAEDLRGIRLRRSTIEAAAARLGGGRQGTMQLLKL
+                     ILTWVQNHHLQRKRPRDVMEEEAGLHVQLPSPVANPPGYEFPAGGQDMAAGGGTSWMP
+                     HQQAFTPPAAYGGDAVYPSAAGQQYSFHQGPSTSSVVVNSQPFSPPPVGDMHGANMAW
+                     PQQYVPFPPPGASTGSYPMPQPFSPGFGGQYAGAGAGHLSVAPQRMAGVEASATKEAR
+                     KKRMARQRRLSCLQQQRSQQLSLGQIQASVHLQEPSPRSTHSGPVTPSAGGWGFWSPS
+                     SQQQVQNPLSKSNSSRAPPPSLEAAAVAPQTKPAPAGARQDDIHHRLAAASDKRQGAK
+                     ADKNLRFLLQKVLKQSDVGSLGRIVLPKEAEVHLPELKTRDGISIPMEDIGTSRVWNM
+                     RYRFWPNNKSRMYLLENTGEFVRSNELQEGDFIVIYSDVKSGKYLIRGVKVRPPPAQE
+                     QGSGSSGGGKHRPLCPAGPGRAAAAGAPEDAVVDGVSGACKGRSPEGVRRVRQQGAGA
+                     MSQMAVSI"
+ORIGIN      
+        1 atggaagcct ccgccggctc gtcgccaccg cactcccaag agaacccgcc ggagcacggt
+       61 ggcgacatgg gaggggcccc cgcggaggag atcggagggg aggcggcgga tgatttcatg
+      121 ttcgctgaag acacgttccc ctccctcccg gacttccctt gcctttcgtc gccgtccagc
+      181 tccaccttct cgtccaactc ctcgtcaaac tcctccagcg cctacaccaa cacggcagga
+      241 agagccggcg gcgagccctc cgagcctgct tcggccggag aagggtttga tgcgctcgat
+      301 gacatcgacc agctcctcga cttcgcgtcg ctttccatgc cgtgggactc cgagccgttc
+      361 ccgggggtta gcatgatgct agagaacgcc atgtcggcgc cgccgcagcc ggtgggcgac
+      421 ggcatgagtg aagagaaagc cgtgccggaa gggaccacag ggggagagga ggcctgcatg
+      481 gatgcgtcgg agggggagga gctgccgcgg ttcttcatgg agtggctcac gagcaaccgc
+      541 gaaaacatct cggccgagga tctccgcggg atccgcctcc gccgctccac catcgaggcc
+      601 gccgccgccc ggctcggcgg cgggcgccag ggcaccatgc agctgctcaa gctcatcctc
+      661 acctgggtgc agaaccacca cctccagagg aagcgcccgc gcgacgtgat ggaggaggag
+      721 gcgggcctgc acgtccagct ccccagcccg gtcgccaacc caccaggata cgagttcccc
+      781 gccggcggac aggacatggc cgcgggcggc ggcacatctt ggatgcccca ccagcaggca
+      841 ttcacgccgc ctgctgcgta cggcggcgac gcggtgtacc cgagcgcggc aggccaacag
+      901 tactctttcc accagggccc cagcacgagc agcgtggtcg tgaacagcca accgttctcc
+      961 ccgccgcctg tgggcgacat gcacggcgcg aacatggcct ggccgcagca gtacgtgccg
+     1021 ttcccaccgc ctggggcttc cacgggctct taccctatgc cgcagccgtt ctcccccgga
+     1081 ttcggcgggc agtacgccgg cgccggcgct ggccacctct cagtggcccc ccagcgcatg
+     1141 gcaggcgtgg aggcctcggc gaccaaggag gcccgcaaga agcgcatggc gagacagcgg
+     1201 cgcctgtcct gcctgcagca gcagcgcagc cagcagctga gcctgggcca gatccaggcc
+     1261 tccgtccacc tgcaggagcc gtcccctcgg tccacgcact ccggcccggt cacgccgtca
+     1321 gcaggcggct ggggattctg gtcgccgagc agccagcagc aggtccagaa cccgctctcc
+     1381 aagtccaatt catcaagggc gccgcctccc tcgctggaag cggcggcggt ggcgccacag
+     1441 acaaagcccg cgcctgctgg tgctcggcag gacgacattc accaccgcct cgcagcggct
+     1501 tcagataagc ggcagggcgc caaggcggac aagaacctgc ggttcctgct gcagaaggtg
+     1561 ctgaagcaga gcgacgtcgg gagcctcggc cgcatcgtgc tccccaaaga agcggaggtt
+     1621 cacctgccgg agctgaagac gagggatggc atctccatcc ccatggagga catcggaacg
+     1681 tcgcgcgtgt ggaacatgcg gtacaggttt tggcccaaca acaagagcag aatgtatctg
+     1741 ctggagaaca caggggaatt tgttcgttcc aacgagcttc aggaggggga tttcatagtg
+     1801 atctactccg atgtcaagtc gggcaaatat ctgatacggg gcgtgaaggt aaggcccccg
+     1861 ccggcgcaag agcaaggcag tggttccagc gggggaggca agcacaggcc cctctgtcca
+     1921 gcaggtccag ggagagccgc agccgccggt gctcctgaag acgccgtcgt cgacggggtc
+     1981 agcggcgcct gcaaggggag gtctccggaa ggcgtgcggc gggttcggca gcagggagcc
+     2041 ggcgccatga gccagatggc ggtgagcatc
+//
+
