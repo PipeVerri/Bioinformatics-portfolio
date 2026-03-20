@@ -1,0 +1,1 @@
+Voy a empezar con **Proteobacteria (Filo) → Gammaproteobacteria (Clase)** porque es uno de los mas estudiados y tiene mucha relevancia medica(salmonella, ecoli, y otras)

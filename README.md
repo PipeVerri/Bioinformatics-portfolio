@@ -1,6 +1,6 @@
 # Bioinformatics Portfolio
 
-A collection of bioiSimSnformatics experiments and competitive programming solutions focused on genomics, sequence analysis, and algorithmic problems.
+A collection of bioinformatics experiments focused on genomics, sequence analysis, and algorithmic problems.
 
 ## Experiments
 

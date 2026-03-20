@@ -1,3 +1,7 @@
 .idea/
 .venv/
-data/
+
+data/*
+!data/gamma-b
+data/gamma-b/*
+!data/gamma-b/to_download.txt
